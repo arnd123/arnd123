@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aravind Oraganti
 - 👀 I’m interested in Power Bi Dashboards and SQL Queries
-- 🌱 I’m currently learning Power BI/Python
+- 🌱 I’m currently learning SSIS/Python
 - 💞️ I’m looking to collaborate on SQL Queries
 - 📫 How to reach me a.oraganti@outlook.cardiffmet.ac.uk
 
